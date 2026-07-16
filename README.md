@@ -2,6 +2,15 @@
 
 A full-stack, scalable, and modern e-commerce platform built with React (Next.js) for the frontend, Node.js (Express) for the backend, PostgreSQL for primary data storage, and Redis for caching.
 
+# Preview
+---
+<img width="1366" height="692" alt="image" src="https://github.com/user-attachments/assets/65a6a1ac-fa21-4ed9-a961-977b8bbaa54c" />
+<img width="1365" height="700" alt="image" src="https://github.com/user-attachments/assets/1b791c95-1f5f-4109-9872-8b1d641cc3b7" />
+<img width="1361" height="687" alt="image" src="https://github.com/user-attachments/assets/b5a425d9-56cf-4d32-9262-26692235c7a8" />
+<img width="1364" height="690" alt="image" src="https://github.com/user-attachments/assets/57fc7e97-8fff-49a1-a745-1bf9eef6d3a9" />
+<img width="1365" height="698" alt="image" src="https://github.com/user-attachments/assets/89805f92-0d27-4c91-b4ab-4a18bf943fcd" />
+
+---
 ## Architecture
 
 * **Frontend (`/frontend`)**: A modern React application built using the Next.js App Router. It features a responsive, premium glassmorphism design with Vanilla CSS.
